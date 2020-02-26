@@ -1,6 +1,8 @@
 # Autograding Example: C++
 This example project is written in C++, and tested with make and [Catch2](https://github.com/catchorg/Catch2).
 
+The tests are failing right now because of a bad base case in the factorial function. Correcting the base case will fix the tests.
+
 ### Setup command
 N/A
 
